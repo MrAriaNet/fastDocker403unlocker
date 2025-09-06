@@ -1,3 +1,12 @@
+## Project Archived 🚨
+
+This project is no longer maintained.  
+
+An alternative implementation in **Go** is available, which does **not require any third-party libraries** and runs as a **static, all-in-one binary**:  
+
+- [403Unlocker-cli](https://github.com/403unlocker/403Unlocker-cli)  
+ 
+
 # Fast Docker 403 Unlocker
 
 I had so many challenges in choosing the docker registry mirror that has the docker image that I wanted and has acceptable download speed that fits with my internet service provider so I developed an script that checks and tests the speed of the docker registry mirrors so I won't waste my time on finding the best docker registry mirror.
